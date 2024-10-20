@@ -1,2 +1,8 @@
 myvenv_llm/
 token
+.env
+credentials.json
+crewvertex/
+agent_tutorials/
+condo_gpt/
+graph_websearch_agent/
